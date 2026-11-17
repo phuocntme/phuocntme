@@ -44,7 +44,7 @@
 |---|---|
 | [**AI Workflow Capstone**](https://github.com/phuocntme/ai-workflow-capstone) | Agents that build n8n / LangGraph / Make pipelines via coding-agent CLIs |
 | **Comic Recap Engine** *(in progress)* | LLM + FFmpeg motion-comic video generator with live block editor |
-| **Caro / Gomoku AI** *(in progress)* | AlphaZero-style SE-ResNet + MCTS on 15×15 boards |
+| [**Caro / Gomoku AI**](https://github.com/phuocntme/caro-gomoku-ai) | AlphaZero-style SE-ResNet + MCTS on 15×15 boards · [▶ live demo](https://phuocntme.github.io/caro-gomoku-ai/) |
 | **Steel Defect Segmentation** *(in progress)* | U-Net++ w/ ResNet34 + scSE, IEEE-format research report |
 
 ## >< Contact
