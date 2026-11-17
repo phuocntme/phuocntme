@@ -13,7 +13,6 @@
 - 🎯 Final-year student @ **FPT University**, majoring in **Software Artificial Intelligence**
 - 🤖 I build **RAG systems and multi-agent LLM pipelines** — Dockerized, versioned with DVC, deployed with CI/CD
 - ⚡ Founder & lead developer of an **AI Comic Recap Engine** — generating motion-comic recap videos with LLMs + FFmpeg
-- 🏆 National **Top 50 Business Intelligence Challenge 2024** winner
 - 🛠️ Automating real workflows with n8n, LangGraph and coding-agent CLIs (Codex, Gemini, Claude Code)
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="25"> Tech Stack
@@ -51,7 +50,7 @@
 ## >< Contact
 
 <p>
-  <a href="mailto:ngphuoc2008@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:contact.phuocnguyen@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://nguyen-tong-phuoc-cv.netlify.app/"><img src="https://img.shields.io/badge/CV%20%26%20Portfolio-7C3AED?style=flat&logo=readme&logoColor=white" alt="Portfolio"/></a>
 </p>
 
