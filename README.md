@@ -1,57 +1,62 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Nguyễn Tông Phước
+<div align="center">
+  <img src="assets/profile-hero.svg" alt="Nguyen Tong Phuoc — AI Product Builder" width="100%" />
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+RAG+%26+LLM+Pipelines;Multi-Agent+Systems+%7C+Agentic+Automation;Ship+AI+from+prototype+to+production"/>
-  </a>
-</p>
+  **I turn AI ideas into usable products.**
+
+  [GitHub](https://github.com/phuocntme) · [Email](mailto:contact.phuocnguyen@gmail.com) · Ho Chi Minh City, Vietnam
+</div>
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="25"> About Me
+## Products & experiments
 
-- 🎯 Final-year student @ **FPT University**, majoring in **Software Artificial Intelligence**
-- 🤖 I build **RAG systems and multi-agent LLM pipelines** — Dockerized, versioned with DVC, deployed with CI/CD
-- ⚡ Founder & lead developer of an **AI Comic Recap Engine** — generating motion-comic recap videos with LLMs + FFmpeg
-- 🛠️ Automating real workflows with n8n, LangGraph and coding-agent CLIs (Codex, Gemini, Claude Code)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="25"> Tech Stack
+### ♟️ Play Caro against AI
+A browser-playable 15×15 Caro game powered by an AlphaZero-style model. Choose local 1-vs-1 or challenge the AI; no install required. Online multiplayer stays in the self-hosted version.
 
-### 🧠 AI / ML Engineering
+**[▶ Play now](https://phuocntme.github.io/caro-gomoku-ai/)** · [How it works](https://github.com/phuocntme/caro-gomoku-ai)
 
-<p><img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,opencv,postgres" /></p>
+</td>
+<td width="50%" valign="top">
 
-### 🤖 LLM & Agents
+### 🪪 AIDA — Agent Identity on Avalanche
+An on-chain product experiment for agent identity, reputation, and validation. Includes a local demo flow and an Avalanche Fuji deployment.
 
-<p><img src="https://skillicons.dev/icons?i=langchain,js,html,css" /></p>
+[Explore AIDA →](https://github.com/phuocntme/AIDA)
 
-### 🏗️ MLOps / Infrastructure
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p><img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux" /></p>
+### 🔎 Welding Surface Defect Studio
+YOLO + SAM assist polygon annotation in Label Studio. A practical computer-vision workflow from detection to human-reviewed masks.
 
-**Toolbelt:** LangGraph · n8n · Make · Ollama · vLLM · OpenAI API · Sentence Transformers · ChromaDB · FAISS · Pinecone · MLflow · DVC · GitHub Actions · FastAPI
+[Explore the project →](https://github.com/phuocntme/resistance-spot-welding-surface-defect)
 
-## <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="25"> Focus Areas
+</td>
+<td width="50%" valign="top">
 
-- **Retrieval-Augmented Generation** — chunking strategies, hybrid BM25 + ANN retrieval, cross-encoder reranking, evaluation harnesses
-- **Multi-Agent Orchestration** — tool calling, safety gates, human-in-the-loop pipelines
-- **Applied Computer Vision** — segmentation (U-Net++ / DeepLabV3+), video pipelines, anime 2.5D motion
-- **Production MLOps** — Docker, CI/CD, drift monitoring, model versioning
+### 🎨 ComicBookGenerator
+A prompt-to-comic pipeline and FastAPI studio that turns story ideas into illustrated panels and composed pages.
 
-## 🚀 Featured Projects
+[Explore the project →](https://github.com/phuocntme/comic-book-generator)
 
-| Project | What it does |
-|---|---|
-| [**AI Workflow Capstone**](https://github.com/phuocntme/ai-workflow-capstone) | Agents that build n8n / LangGraph / Make pipelines via coding-agent CLIs |
-| **Comic Recap Engine** *(in progress)* | LLM + FFmpeg motion-comic video generator with live block editor |
-| [**Caro / Gomoku AI**](https://github.com/phuocntme/caro-gomoku-ai) | AlphaZero-style SE-ResNet + MCTS on 15×15 boards · [▶ live demo](https://phuocntme.github.io/caro-gomoku-ai/) |
-| **Steel Defect Segmentation** *(in progress)* | U-Net++ w/ ResNet34 + scSE, IEEE-format research report |
+</td>
+</tr>
+</table>
 
-## >< Contact
+## How I build
 
-<p>
-  <a href="mailto:contact.phuocnguyen@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://nguyen-tong-phuoc-cv.netlify.app/"><img src="https://img.shields.io/badge/CV%20%26%20Portfolio-7C3AED?style=flat&logo=readme&logoColor=white" alt="Portfolio"/></a>
-</p>
+I care about the whole product loop: understand the user problem, shape the interaction, connect the model and backend, then make the result easy to try and evaluate.
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=phuocntme&color=7C3AED&style=flat" alt="profile views"/></p>
+**Current interests:** applied AI · computer vision · agentic systems · creative tools
+
+**Tools:** `Python` `PyTorch` `YOLO` `SAM` `FastAPI` `Docker` `TypeScript` `Solidity` `LangGraph`
+
+---
+
+**Building something with AI?** [Let’s talk](mailto:contact.phuocnguyen@gmail.com).
